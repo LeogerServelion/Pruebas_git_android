@@ -16,6 +16,7 @@ import java.io.FileDescriptor;
 import java.io.PrintWriter;
 
 public class MainActivity extends AppCompatActivity {
+    //Creacion de variables
 private EditText et1, et2;
     private String[] operacion={"Sumar", "Restar", "Multiplicar", "Dividir"};
 private Spinner spinner1;
