@@ -35,7 +35,7 @@ private Spinner spinner1;
     }
 
 
-
+//Demostracion de resultados para la segunda actividad
     public void mostrarResultado(View v) {
         Intent intento1= new Intent(this, Actividad2.class);
         int valor1=Integer.parseInt(et1.getText().toString());
